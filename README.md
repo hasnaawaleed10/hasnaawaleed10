@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Hasnaa
 
-<!--
-**hasnaawaleed10/hasnaawaleed10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Law Student** at Faculty of Sharia and Law (English Section) | 💻 **Aspiring Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+- 📚 Currently studying Law in English.
+- 🗣️ Fluent in English.
+- 💻 Learning and building web applications with a focus on **Full-Stack Web Development**.
+- 🎯 Goal: Becoming a Professional Full-Stack Developer.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Technologies:** HTML5, CSS3, JavaScript
+- **Editors:** VS Code
+-
